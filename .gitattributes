@@ -1,0 +1,5 @@
+# Ignore ShaderLab files (Unity shaders) from language stats
+*.shader linguist-detectable=false
+
+# Ignore EnemyPrefabLayout.wlt file (misclassified as Mathematica)
+EnemyPrefabLayout.wlt linguist-detectable=false
