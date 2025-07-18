@@ -2,4 +2,4 @@
 *.shader linguist-detectable=false
 
 # Ignore EnemyPrefabLayout.wlt file (misclassified as Mathematica)
-EnemyPrefabLayout.wlt linguist-detectable=false
+*.wlt linguist-detectable=false
